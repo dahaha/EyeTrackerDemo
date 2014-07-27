@@ -23,7 +23,9 @@ The Eye Tribe Tracker是一个计算眼球凝视点的外接设备。
 ##### 安装与配置
 1）在官网下载并安装客户端 EyeTribe UI 和 EyeTribe Server。
 
-地址：https://theeyetribe.com/order/my-account/，需要购买时的账号和密码才能下载。
+地址：https://theeyetribe.com/order/my-account/，
+
+需要购买时的账号和密码才能下载。
 
 <img height="50" width="50" src="img/icon1.png" />
 <img height="50" width="50" src="img/icon2.png" />
